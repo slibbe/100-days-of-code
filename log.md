@@ -10,18 +10,18 @@
 
 ### Day 2: 19 January 2019
 
-**Today's Progress**: #100DaysOfCode #day1 Continued on the PacktPub 'Learn Go in 3 hours' video, learning working with VSCode on the way.
+**Today's Progress**: #100DaysOfCode #day2 Continued on the PacktPub 'Learn Go in 3 hours' video, learning working with VSCode on the way.
 
 **Thoughts**: 
 
 **Link(s) to work**: 
 
 
-### Day 2: 20 January 2019
+### Day 3: 20 January 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: #100DaysOfCode #day3 Continued on the PacktPub 'Learn Go in 3 hours' video; it's getting interesting!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I see some days coming up that I cannot attend :-(
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
