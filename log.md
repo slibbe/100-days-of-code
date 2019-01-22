@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: 22 January 2019
+
+**Today's Progress**: #100DaysOfCode #day5 Continued on the PacktPub 'Learn Go in 3 hours' video: Packages, create one of your own. Got stuck. Fixing it tomorrow 😉
+
+**Thoughts**: Tired, need some sleep now.
+
+**Link(s) to work**: 
+
+
 ### Day 4: 21 January 2019
 
 **Today's Progress**: #100DaysOfCode #day4 Continued on the PacktPub 'Learn Go in 3 hours' video: Control Structures, Functions and Pointers
