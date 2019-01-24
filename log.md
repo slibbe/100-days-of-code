@@ -1,15 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 7: 24 January 2019
+
+**Today's Progress**: #100DaysOfCode #day7 Continued on the PacktPub 'Learn Go in 3 hours' video. Installing dep was a challenge yesterday, getting it working as it is supposed to is yet another challenge for today. Finally found that 'dep init' has to be done like this: $GOPATH/bin/dep init while you are in the src directory. 
+
+**Thoughts**: Not sure that this is practicle but fine for just now. #creating_technical_debth🤓
+
+**Link(s) to work**: 
+Explanatory: 
+http://noelyahan.blogspot.com/2018/02/mystery-of-gopath.html
+https://golang.github.io/dep/
+
+
+
 ### Day 6: 23 January 2019
 
 **Today's Progress**: #100DaysOfCode #day6 Continued on the PacktPub 'Learn Go in 3 hours' video. Yesterday's getting stuck was caused by 4 typo's and 2 missing lines 😂  So yes, I was tired. 
 Continued the course until installing dep (which seems to be Go's Composer, if you're familiar with PHP). Installing was a bit messy as GOBIN appears not to be set in GitBash/Windows 10 environments. Fix: export GOBIN="C:\Users\<username>\go\bin"
 
-**Thoughts**: Tired, need some sleep now.
+**Thoughts**: 
 
 **Link(s) to work**: 
 Possibly useful url: https://github.com/avelino/awesome-go 
 A curated list of awesome Go frameworks, libraries and software https://awesome-go.com/
+
 
 
 ### Day 5: 22 January 2019
