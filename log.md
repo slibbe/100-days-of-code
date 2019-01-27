@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 9: 26/27 January 2019
+
+**Today's Progress**: #100DaysOfCode #day9 Continuing on the Go Introductory course of PacktPub. Finishing it tomorrow I guess. 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+
+### Day 8: 25 January 2019
+
+**Today's Progress**: #100DaysOfCode #day8 Publishing package to github, changing old keys config to newer set. Old one is from cygwin/bash while new one is from VSCode/gitbash in different location. #confusing
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+
 ### Day 7: 24 January 2019
 
 **Today's Progress**: #100DaysOfCode #day7 Continued on the PacktPub 'Learn Go in 3 hours' video. Installing dep was a challenge yesterday, getting it working as it is supposed to is yet another challenge for today. Finally found that 'dep init' has to be done like this: $GOPATH/bin/dep init while you are in the src directory. 
