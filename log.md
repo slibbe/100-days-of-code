@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 10: 28 January 2019
+
+**Today's Progress**: #100DaysOfCode #day10 Finishing the PacktPub Learn Go in 3 Hours course. 
+The end of this course is the start of Go in my real life ;-)
+
+**Thoughts**: Now what? 
+
+**Link(s) to continue with**:
+https://golang.org
+https://golang.org/ref/spec
+https://golang.org/doc/effective_go.html
+https://golang.org/pkg
+https://golang.org/doc/cmd
+
+https://rakyll.org
+https://peter.bourgon.org/blog
+https://dave.cheney.net
+https://www.ardenlabs.com/blog
+https://medium.com/@jon_43067
+
+
+
 ### Day 9: 26/27 January 2019
 
 **Today's Progress**: #100DaysOfCode #day9 Continuing on the Go Introductory course of PacktPub. Finishing it tomorrow I guess. 
