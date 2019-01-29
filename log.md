@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 11: 29 January 2019
+
+**Today's Progress**: #100DaysOfCode #day11 Design exercise, describe problem and structure in MarkDown, start with solution in Go. At this time I feel that I should do some practise before picking up another book, since after some experience explanations tend to make more sense.
+
+ **Problem**: Have text in two (or more columns) split in two parts, place other arbitrary string in the middle, and print total file again.
+ 
+ **Thoughts**: This could be done easily in bash ;-)
+
+**Link(s) to work**:
+
+
+
 ### Day 10: 28 January 2019
 
 **Today's Progress**: #100DaysOfCode #day10 Finishing the PacktPub Learn Go in 3 Hours course. 
