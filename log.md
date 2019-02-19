@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 14: 20 February 2019
+
+**Today's Progress**: #100DaysOfCode #day14 Up next: Modern Golang Programming by PacktPub. Also setting up for next #day.
+
+ **Problem**:  
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+
 ### Day 13: 19 February 2019
 
 **Today's Progress**: #100DaysOfCode #day13 Finished Generative Adversarial Networks from PacktPub.  Need to have a look at Tensorflow and AWS Lambda. Really wondering if I will be able to make good use of this anytime soon.
