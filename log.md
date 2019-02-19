@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 13: 19 February 2019
+
+**Today's Progress**: #100DaysOfCode #day13 Finished Generative Adversarial Networks from PacktPub.  Need to have a look at Tensorflow and AWS Lambda. Really wondering if I will be able to make good use of this anytime soon.
+
+ **Problem**:  
+
+**Thoughts**: 
+
+
+
+### Day 12: 18 February 2019
+
+**Today's Progress:**: #100DaysOfCode #day12 Started with Generative Adversarial Networks from PacktPub. Rather Hard Stuff ...
+
+**Problem**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
 ### Day 11: 29 January 2019
 
 **Today's Progress**: #100DaysOfCode #day11 Design exercise, describe problem and structure in MarkDown, start with solution in Go. At this time I feel that I should do some practise before picking up another book, since after some experience explanations tend to make more sense.
