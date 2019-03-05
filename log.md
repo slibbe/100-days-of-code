@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 14: 20 February 2019
+### Day 14: 5 March 2019
 
-**Today's Progress**: #100DaysOfCode #day14 Up next: Modern Golang Programming by PacktPub. Also setting up for next #day.
+**Today's Progress**: #100DaysOfCode #day14 KhanAcademy Getting started with JS (implemented with ProcessingJS)
 
  **Problem**:  
 
