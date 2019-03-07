@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 16: 7 March 2019
+
+**Today's Progress**: #100DaysOfCode #day16 KhanAcademy Programming Intro JS with ProcessingJS continued, trying to get the code running outside KhanAcademy environment
+
+ **Problem**:  
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
 ### Day 15: 6 March 2019
 
 **Today's Progress**: #100DaysOfCode #day15 KhanAcademy Getting started with JS (implemented with ProcessingJS) continued
