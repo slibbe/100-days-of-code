@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 17: 8 March 2019
+
+**Today's Progress**: #100DaysOfCode #day17 Intermezzo: bash scripting
+
+ **Problem**:  How merge two or more columns columnwise, or print as CSV, in either case for later use in Excel.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
 ### Day 16: 7 March 2019
 
 **Today's Progress**: #100DaysOfCode #day16 KhanAcademy Programming Intro JS with ProcessingJS continued, trying to get the code running outside KhanAcademy environment
