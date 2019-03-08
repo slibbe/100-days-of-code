@@ -4,7 +4,7 @@
 
 **Today's Progress**: #100DaysOfCode #day17 Intermezzo: bash scripting
 
- **Problem**:  How merge two or more columns columnwise, or print as CSV, in either case for later use in Excel.
+ **Problem**:  How merge two or more files columnwise, or print as CSV, in either case for later use in Excel.
 
 **Thoughts**: 
 
