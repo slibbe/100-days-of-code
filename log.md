@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 19: 15 March 2019
+
+**Today's Progress**: #100DaysOfCode #day19 KhanAcademy Programming Intro JS with ProcessingJS continued
+
+ **Problem**:  
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
 ### Day 18: 14 March 2019
 
 **Today's Progress**: #100DaysOfCode #day18 KhanAcademy Programming Intro JS with ProcessingJS continued
