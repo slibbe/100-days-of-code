@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 20: 23 April 2019
+
+**Today's Progress**: #100DaysOfCode #day20 Checking out Bosque: new programming language by Microsoft, https://github.com/Microsoft/BosqueLanguage, let me see if I can actually build something with Bosque...
+
+ **Problem**:  
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
 ### Day 19: 15 March 2019
 
 **Today's Progress**: #100DaysOfCode #day19 KhanAcademy Programming Intro JS with ProcessingJS continued
